@@ -1,0 +1,1 @@
+{"name":"Username Issue","repository":"https://github.com/initialversion/username-issue-1476042953","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
